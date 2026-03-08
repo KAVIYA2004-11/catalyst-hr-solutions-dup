@@ -1,0 +1,16 @@
+# dependencies
+node_modules/
+
+# build
+dist/
+build/
+
+# environment variables
+.env
+
+# ignore backend server
+server/
+
+# cache
+.cache/
+.vite/
