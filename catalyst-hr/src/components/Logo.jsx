@@ -47,7 +47,7 @@ export function LogoFull({ size = 40, white = false, vertical = true }) {
       }}>
         <span style={{ 
           fontWeight: 600, 
-          fontSize: size * 0.65, 
+          fontSize: size * 0.52, 
           color: color,
           fontFamily: "'Playfair Display', Georgia, 'Times New Roman', serif",
           letterSpacing: "1px",
@@ -57,7 +57,7 @@ export function LogoFull({ size = 40, white = false, vertical = true }) {
         </span>
         <span style={{ 
           fontWeight: 600, 
-          fontSize: size * 0.36, 
+          fontSize: size * 0.28, 
           color: color,
           fontFamily: "'Playfair Display', Georgia, 'Times New Roman', serif",
           letterSpacing: "0.5px",
